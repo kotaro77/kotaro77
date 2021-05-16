@@ -1,0 +1,4 @@
+-Hi, I am @Kotaro77 or more specifically "Mohammed".
+-I am from Bahrain.
+-I can speak in 3 Languages: Arabic(Main), English(Most of the time), Jappaness(Still learning).
+-I am a unity game developer, I use c# as my main programming language.
